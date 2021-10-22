@@ -1,14 +1,7 @@
----
-layout: page
-title: Hello
-subtitle: My name is Amy
-sitemap:
-  priority: 0.9
----
-
-<img src="{{ '/assets/img/amy.png' | prepend: site.baseurl }}" id="about-img">
+I"<p><img src="/assets/img/amy.png" id="about-img" /></p>
 
 <div id="describe-text">
 	<p>I've made this blog so I can write about my learnings whilst studying Japanese</p>
 	<p>At some point in the future, this blog may turn into more of a personal blog, but I'm not sure yet!</p>
 </div>
+:ET
