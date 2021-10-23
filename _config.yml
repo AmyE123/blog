@@ -4,7 +4,7 @@ description: >
   Personal blogs about stuff I've learnt like studying Japanese and Fashion.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "blog.amy-portfolio.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 author:
   fullname: Amy Elliott
