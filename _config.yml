@@ -1,16 +1,15 @@
 # Site settings
-title: Amy's Japanese Blog
+title: Amy's Blog
 description: >
-  My blog page where I write blogs about what I've learnt when studying Japanese.
+  Personal blogs about stuff I've learnt like studying Japanese and Fashion.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://AmyE123.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Amy Elliott
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  linkedin: amy-m-elliott
+  email: amy.elliott2002@yahoo.co.uk
 
 
 # Syntax highlighting
