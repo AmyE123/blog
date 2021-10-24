@@ -48,6 +48,27 @@
     max-width: 800px;
     margin: 60px auto; }
 
+    .english-romaji {
+    background-color: #c52f5e;
+    color: #e9b3c4;
+    text-align: center;
+    font-size: larger;
+    }
+
+    .written-japanese {
+        background-color: #2ea9c5;
+        color: #b3dfe9;
+        text-align: center;
+        font-size: larger;
+    }
+
+    .english {
+        background-color: #2ec54b;
+        color: #b3e9bd;
+        text-align: center;
+        font-size: larger;
+    }
+
 /* =Header *//*************************************************************/
   .header {
     overflow: hidden; }
@@ -224,7 +245,6 @@
       display: block;
       text-align: center;
       width: 100%; }
-
   }
 
 /* =Glitch effect, Source: http://codepen.io/bulby97/pen/fcvay *//*************************************************************/
