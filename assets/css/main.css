@@ -69,6 +69,13 @@
         font-size: larger;
     }
 
+    .image-heading {
+        object-fit: cover; 
+        height: 400px; 
+        width: 100%; 
+        object-position: 50% 100%;
+    }
+
 /* =Header *//*************************************************************/
   .header {
     overflow: hidden; }
