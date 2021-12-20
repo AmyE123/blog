@@ -1,0 +1,196 @@
+﻿---
+layout: page
+title:  "Lesson 5: Travel"
+subtitle: "Travel is exciting to do! Here are some useful sentences and phrases I’ve learnt which you might be able to use if you travel to Japan!"
+date:   2021-11-28
+categories: ["japanese"]
+---
+<img src="/assets/img/posts/travel/cover.jpg" class="image-heading" style="object-position: 50% 50% !important;">
+
+<h1>Recap</h1>
+<p>In my last session, titled <a href="/japanese/2021/11/14/lesson-4-family.html" target="_blank">Lesson 4: Family</a> - I learnt about how to talk about different family members in Japanese.</p>
+
+<h1>Homework</h1>
+<p>For my homework, I had to write 2 sentences about places I want to go to in Japan.</p>
+<p>So, like my other pieces of homework, I wrote out what I wanted to say in English first.</p>
+<p class="english">I want to go to Tokyo because it’s a big city</p>
+<p class="english">I want to go to the countryside in Japan to take pictures</p>
+<p>I began this by Googling words and phrases I didn’t know, so this was “Big city” and “countryside in Japan” - From finding similar phrases, I was able to put together both of these sentences in Japanese.</p>
+<p class="english-romaji">Tokyo ni ikitai nazenara soreha daitoshi desu.</p>
+<p class="english-romaji">Inaka no nihon ni ikitai nazenara soreha shashinwotoru desu.</p>
+
+<h2>Feedback</h2>
+<p>For the first sentence, I should’ve written:</p>
+<p class="english">I want to go to Tokyo. Because it’s a big city.</p>
+<p class="english-romaji">Tokyo ni ikitai desu.<br /> Nazenara, soko wa daitoshi da kara desu.</p>
+<p class="written-japanese">東京 に 行きたい です。<br /> なぜなら そこ わ だいとし だ から です。</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/201.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p>In this correct sentence, it’s broken up into two smaller sentences, and there are some new words too.</p>
+<p>The word <strong>“Soko”</strong> gets used which roughly translates to <strong>“there”</strong>, and similar to this there’s the word <strong>“Koko”</strong> which means <strong>“here”</strong> and <strong>“Asoko”</strong> which means <strong>“over there”</strong></p>
+<p>Some other words which are used here are <strong>“dakara”</strong> - this word is the same as <strong>“kara”</strong> with <strong>“da”</strong> added on the front, and we add the <strong>“da”</strong> if it’s a noun or an adjective in front of it, if it’s a verb in front of it, just <strong>“kara”</strong> is used.</p>
+<p>If I wanted the previous sentence in one sentence, I could also write:</p>
+<p class="english">Tokyo is big that's why I want to go there.</p>
+<p class="english-romaji">Tokyo wa daitoshi nanode, (soko ni) ikitai desu.</p>
+<p class="written-japanese">東京　わ　だいとし　なので　（そこ　に）いきたい　です</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/202.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p>In this sentence, we don’t necessarily need <strong>“soko ni”</strong>, it can be taken out if wanted. <strong>“Nanode”</strong> means <strong>“so that/that's why”</strong>.</p>
+<p>For my second sentence, I should’ve written something like this:</p>
+<p class="english">I want to go to the countryside in Japan to take pictures</p>
+<p class="english-romaji">Shashin wo toru node (or) tameni, nihon no inaka ni ikitai desu</p>
+<p class="written-japanese">写真 を 撮る ので 日本 の 田舎 に 行きたい です</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/203.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p>Here, either <strong>“node”</strong> or <strong>“tameni”</strong> can be used. <strong>“Node”</strong> means <strong>“so”</strong>, and <strong>“tame/tameni”</strong> mean <strong>“due to/for”.</strong></p>
+<p>When saying <strong>“countryside in japan”</strong> or <strong>“japanese countryside”</strong> I should make sure I say it right, and <strong>“nihon no inaka”</strong> is correct - if I were to say <strong>“inaka no nihon”</strong> that doesn’t make sense! With this in mind, I can form other words/phrases:</p>
+<p class="english">Japanese Culture</p>
+<p class="english-romaji">Nihon no bunka</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/204.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p class="english">Japanese Food</p>
+<p class="english-romaji">Nihon no tabemono</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/205.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p>And here are some more:</p>
+<p class="english">Countrysides’ food</p>
+<p class="english-romaji">Inaka no tabemono</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/206.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p class="english">Countrysides’ scenery</p>
+<p class="english-romaji">Inaka no keshiki</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/207.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p>The <strong>“no”</strong> particles here are used to indicate possession and to link nouns together, so if we wanted to say <strong>“Amy’s dog”</strong> it would be <strong>“Amysan no inu”</strong></p>
+<p>If I wanted to break this into two sentences as I have done for the previous part, I could say:</p>
+<p class="english">I want to go to the countryside in Japan. To take pictures.</p>
+<p class="english-romaji">Nihon no inaka ni ikitai desu. <br /> Nazenara shashin wo toru (or) kara desu.</p>
+<p class="written-japanese">日本 の 田舎 に 行きたい です。<br /> なぜなら 写真 を から です。</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/208.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p>Here, either <strong>“toru”</strong> or <strong>“kara”</strong> can be used.</p>
+
+<h1>Study Notes</h1>
+<h2>Homework alternative phrases</h2>
+<p>Another alternative to the sentence above could be:</p>
+<p class="english">I want to take pictures of landscapes because it's pretty/beautiful</p>
+<p class="english-romaji">(Nihon no) keshiki wa kirei nanode, watashi wa shashin wo toritai desu.</p>
+<p class="written-japanese">日本 の 景色 は 綺麗 なので 私は 写真 を とりたい で</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/209.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p>In this sentence, we don’t really need <strong>“nihon no”</strong> as that’s referring to landscapes in Japan, so it’s optional!</p>
+<p>If we wanted to break this sentence up, we could say:</p>
+<p class="english">I want to take pictures of landscapes. Because it is pretty/beautiful.</p>
+<p class="english-romaji">Watashi wa keshiki no shashin wo toritai desu.<br />Nazenara, sore wa kirei dakara desu</p>
+<p class="written-japanese">わたし わ 景色 の 写真 を とrいたい です　<br /> 　なぜなら それは きれい だから です</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/2010.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p>In these sentences <strong>“keshiki”</strong> means <strong>“landscape”</strong>, <strong>“shashin”</strong> means <strong>“photo”</strong> and <strong>“kirei”</strong> means <strong>“beautiful”</strong></p>
+<h2>I want to…</h2>
+<p>Any word ending with “...tai” means “want to”</p>
+<p class="english">I want to do</p>
+<p class="english-romaji">Shitai (suru + tai)</p>
+<p class="written-japanese">したい　＝　し　＋　たい</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/2011.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+<p class="english">I want to go</p>
+<p class="english-romaji">Ikitai (iku + tai)</p>
+<p class="written-japanese">いきたい　＝　いき　＋　たい</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/2012.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+<p class="english">I want to take</p>
+<p class="english-romaji">Toritai (toru + tai)</p>
+<p class="written-japanese">とりたい　＝　とり　＋　たい</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/2013.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+<p class="english">I want to eat</p>
+<p class="english-romaji">Tabetai (taberu + tai)</p>
+<p class="written-japanese">たべたい　＝　たべ　＋　たい</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/2014.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+<p class="english">I want to drink</p>
+<p class="english-romaji">Nomitai (nomu + tai)</p>
+<p class="written-japanese">飲むたい　＝　飲む　＋　たい</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/2015.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+<h2>Where do you want to go?</h2>
+<p>A question someone might ask you after you told them you want to take pictures in the countryside is:</p>
+<p class="english">Where do you want to go in the countryside?</p>
+<p class="english-romaji">Doku no inaka ni ikitai desuka?</p>
+<p class="written-japanese">どく の 田舎 に 行きたい ですか?</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/2016.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p>In my case, I would love to take pictures of Mt. Fuji, and Shizuoka is where Mt. Fuji is.</p>
+<p class="english">I want to go to Mt. Fuji</p>
+<p class="english-romaji">Watashi wa Mt. Fuji ni ikitai desu</p>
+<p class="written-japanese">わたし わ mt。fuji に 行きたい です</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/2017.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p>Or, another way to say this would be:</p>
+<p class="english">I want to go to see Mt. Fuji</p>
+<p class="english-romaji">Watashi wa Mt. Fuji wo mini-ikitai desu.</p>
+<p class="written-japanese">わたし わ mt。fuji を 見に行きたい です</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/2018.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p>The word “mini-ikitai” means “to go to see”, and this is formed of words “miru” which means “see/watch/look” and “ikitai” which was described above.</p>
+<p>Another useful phrase is “mitai desu” which means “I want to watch”</p>
+<h2>Getting invited to places</h2>
+<p>Here are some more questions which you might get asked:</p>
+<p class="english">Do you want to go to an onsen (hot spring)?</p>
+<p class="english-romaji">Onsen ni ikitai desuka?</p>
+<p class="written-japanese">おんせん　に　いきたい　ですか？</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/2019.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<p>My reply to that would be yes! Or “hai” in Japanese. I would love to experience a hot spring in Japan!</p>
+<h1>Additional words/phrases</h1>
+<p>Food is something which was talked about in Lesson 3, you might get asked about types of food you want to eat in the place you’re traveling to!</p>
+<p class="english">What do you want to eat in Japan?</p>
+<p class="english-romaji">Nihon de nani wo tabetai desuka?</p>
+<p class="written-japanese">にほん　で　なに　を　たべたい　ですか？</p>
+<audio controls style="width:100%">
+  <source src="/assets/audio/lesson-5/2020.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
