@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title:  "Lesson 3: Food & Orders"
+title:  "Food & Orders"
 subtitle: "Food is really important, so I learn about how to talk about it in Japanese!"
 date:   2021-10-23
 categories: ["japanese"]
@@ -8,7 +8,7 @@ categories: ["japanese"]
 <img src="/assets/img/posts/food-orders/cover.jpg" class="image-heading" style="object-position: 50% 80% !important;">
 
 <h1>Recap</h1>
-<p>In my last session, titled <a href="/japanese/2021/10/16/lesson-2-hobbies.html" target="_blank">Lesson 2: Hobbies & Interests</a> - I learned about how to talk about my, well, you guessed it! Hobbies & Interests, so I talked about video games a lot!</p>
+<p>In my last session, titled <a href="/japanese/2021/10/16/hobbies.html" target="_blank">Hobbies & Interests</a> - I learned about how to talk about my, well, you guessed it! Hobbies & Interests, so I talked about video games a lot!</p>
 <img src="/assets/img/posts/food-orders/1.jpg" class="image-heading" style="object-position: 50% 50% !important; height: 200px !important">
 <h1>Homework</h1>
 <p>From the last lesson, I was tasked to write 2 sentences about my favourite food! I have lots of favourite foods, so it was hard to pick! I began this homework like I have done before by writing down everything in English!</p>

@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title:  "Lesson 1: Introductory Phrases"
+title:  "Introductory Phrases"
 subtitle: "Learning the basics and finding a good study routine."
 date:   2021-10-02
 categories: ["japanese"]
