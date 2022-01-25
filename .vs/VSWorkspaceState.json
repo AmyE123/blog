@@ -1,18 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.jekyll-cache",
-    "\\.jekyll-cache\\Jekyll",
-    "\\.jekyll-cache\\Jekyll\\Cache",
-    "\\assets",
-    "\\assets\\css",
-    "\\_includes",
-    "\\_includes\\externals",
-    "\\_includes\\meta_tags",
-    "\\_includes\\page",
-    "\\_layouts",
-    "\\_posts"
+    "\\_includes"
   ],
-  "SelectedNode": "\\_posts\\2021-12-23-fashion-in-crash-landing-on-you.md",
+  "SelectedNode": "\\_includes\\header.html",
   "PreviewInSolutionExplorer": false
 }
