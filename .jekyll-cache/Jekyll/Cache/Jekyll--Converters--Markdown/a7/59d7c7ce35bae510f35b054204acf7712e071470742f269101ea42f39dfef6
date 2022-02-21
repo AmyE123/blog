@@ -1,16 +1,8 @@
-﻿---
-layout: page
-title:  "Japanese New Year "
-subtitle: "The New Year is celebrated different around the world, here is how it is celebrated in Japan, along with some Japanese phrases!"
-date:   2022-01-03
-categories: ["japanese"]
----
-<img src="/assets/img/posts/japanese new year/1.jpg" class="image-heading" style="object-position: 50% 50% !important;">
+I"�#<p><img src="/assets/img/posts/japanese new year/1.jpg" class="image-heading" style="object-position: 50% 50% !important;" /></p>
 
 <h1>Recap</h1>
 <p>In my last Japanese blog, titled <a href="/japanese/2021/12/20/general-emailing.html" target="_blank">General Emailing</a> I learnt about how to write an email to a hotel to ask if they had a room available for my family!</p>
-<img src="/assets/img/posts/japanese new year/2.jpg" class="image-heading" style="object-position: 50% 50% !important;">
-
+<p><img src="/assets/img/posts/japanese new year/2.jpg" class="image-heading" style="object-position: 50% 50% !important;" /></p>
 
 <h1>Homework</h1>
 <p>My homework was to research and write about the Japanese New Year, and this was exciting!</p>
@@ -44,8 +36,8 @@ categories: ["japanese"]
 <p>As mentioned above, I should’ve used “<strong>Nihon jin</strong>” instead of “Nihon hito”, and I also used the wrong term for New Year's Eve. Here’s the correct sentence:</p>
 <p class="english">On December 31st, Japanese people eat toshikoshi soba.</p>
 <p class="english-romaji">Nihon-jin wa oomisoka no yoru ni toshikoshi-soba wo tabemasu.</p>
-<audio controls style="width:100%">
-  <source src="/assets/audio/new-year/JAN03_1.mp3" type="audio/mp3">
+<audio controls="" style="width:100%">
+  <source src="/assets/audio/general-emailing/DEC20_5.mp3" type="audio/mp3" />
 Your browser does not support the audio element.
 </audio>
 
@@ -61,11 +53,6 @@ Your browser does not support the audio element.
 <p>Here’s the correct structure of the second sentence:</p>
 <p class="english">On Jan 1st, Japanese people eat (ozoni and osechi)</p>
 <p class="english-romaji">Nihon-jin wa ganjitsu ni (ozoni to osechi) wo tabemasu</p>
-<audio controls style="width:100%">
-  <source src="/assets/audio/new-year/JAN03_2.mp3" type="audio/mp3">
-Your browser does not support the audio element.
-</audio>
-
 <p>I didn’t exactly know what these foods were though, but “<strong>Ozoni</strong>” is a soup with mochi, which sounds really tasty! My tutor told me about an event called “<strong>Mochi tsuki</strong>” which is a Mochi making event!</p>
 <p>“<strong>Osechi</strong>” is a new years bento box, with lots of different things in it!</p>
 <p>For my final sentence, this had to change a bit as well.</p>
@@ -73,21 +60,12 @@ Your browser does not support the audio element.
 <p>Here is how I should’ve written it:</p>
 <p class="english">On Jan 1st, Japanese people go to a shinto shrine</p>
 <p class="english-romaji">Nihon-jin wa ganjitsu ni jinjya ni ikimasu</p>
-<audio controls style="width:100%">
-  <source src="/assets/audio/new-year/JAN03_3.mp3" type="audio/mp3">
-Your browser does not support the audio element.
-</audio>
 
 <h1>Study Notes</h1>
 <p>From the last sentence, I could’ve replaced “<strong>jinjya</strong>”, which means shinto shrine, with “<strong>otera</strong>”, which means a Buddhist temple! Both of these are common temples in Japan.</p>
 <p>With that in mind, I could write a sentence using that and an additional word “<strong>oomisoka</strong>” which means “<strong>end of the year</strong>”</p>
 <p class="english">At the end of the year, Japanese people go to a buddhist temple</p>
 <p class="english-romaji">Nihon-jin wa oomisoka ni otera ni ikimasu</p>
-<audio controls style="width:100%">
-  <source src="/assets/audio/new-year/JAN03_4.mp3" type="audio/mp3">
-Your browser does not support the audio element.
-</audio>
-
 <p>With all this talk about shrines, someone could ask you this question!</p>
 <p class="english">(Amy), do you want to go to a shinto shrine?</p>
 <p class="english-romaji">Amy wa jinjya ni ikitai desuka?</p>
@@ -115,3 +93,4 @@ Your browser does not support the audio element.
 <p>き<strong>っ</strong>ぷ – ki<strong>pp</strong>u (ticket)</p>
 <p>き<strong>っ</strong>と – ki<strong>tt</strong>o (probably)</p>
 <p>Here you can see it used to represent ‘<em>pp</em>’ and ‘<em>tt</em>’ in the above romaji words.</p>
+:ET
