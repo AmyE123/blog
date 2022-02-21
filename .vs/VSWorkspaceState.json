@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_includes"
+    "\\_includes",
+    "\\_posts"
   ],
-  "SelectedNode": "\\_includes\\header.html",
+  "SelectedNode": "\\_posts\\2021-10-23-food-orders.md",
   "PreviewInSolutionExplorer": false
 }
